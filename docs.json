@@ -55,12 +55,12 @@
         ]
       },
       {
-        "tab": "Internal",
+        "tab": "OctoberCMS",
         "groups": [
           {
-            "group": "OctoberCMS",
+            "group": "Tailor",
             "pages": [
-              "octobercms/tailor-builder"
+              "api-reference/introduction"
             ]
           }
         ]

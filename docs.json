@@ -53,7 +53,18 @@
             ]
           }
         ]
-      }
+      },
+      {
+        "tab": "Internal",
+        "groups": [
+          {
+            "group": "OctoberCMS",
+            "pages": [
+              "octobercms/tailor-builder"
+            ]
+          }
+        ]
+      },
     ],
     "global": {
       "anchors": [
